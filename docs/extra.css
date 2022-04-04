@@ -20,7 +20,7 @@ h5 {
 
 .navbar {
   color: #00203e;
-  background-color: #4b6063;
+  background-color: #4b6063 !important;
   border-bottom: 1px solid #4b6063;
   background-image: none;
 }
